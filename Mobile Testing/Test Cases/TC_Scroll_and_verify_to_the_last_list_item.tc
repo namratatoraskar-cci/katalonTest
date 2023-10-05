@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Scroll_and_verify_to_the_last_list_item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b5399fc-b39c-4496-aec9-c9442f847ef0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>45da92d7-fc75-4180-a87f-e078d72c3e10</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Views'</defaultValue>
+      <description></description>
+      <id>45da92d7-fc75-4180-a87f-e078d72c3e10</id>
+      <masked>false</masked>
+      <name>Views</name>
+   </variable>
+</TestCaseEntity>
